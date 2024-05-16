@@ -13,7 +13,11 @@
         </a>
 
         <!-- Hero Background Image  -->
-        <img src="/img/hero-bumb.webp" alt="Hero" class="hero-background" />
+        <img
+            src="https://img.freepik.com/free-vector/gradient-technology-futuristic-background_23-2149115303.jpg?t=st=1715882971~exp=1715886571~hmac=fdcc077531b0d96710c1ed2dbdbb12db73931b48a6325903d1f5fd73fea2dc56&w=740"
+            alt="Hero"
+            class="hero-background"
+        />
     </section>
 </template>
 

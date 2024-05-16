@@ -23,14 +23,10 @@
 
         <q-page-container>
             <router-view />
-            <CallBtnComponent />
         </q-page-container>
 
-        <q-footer elevated class="bg-secondary footer">
+        <q-footer elevated class="bg-primary footer">
             <p>Todos los derechos reservados ©</p>
-            <RouterLink to="trabaja-con-nosotros">
-                Trabaja con nosotros
-            </RouterLink>
         </q-footer>
     </q-layout>
 </template>
@@ -71,7 +67,7 @@ const toggleMenu = () => {
 .footer {
     height: 2.5rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     padding: 0 2rem;
 }

@@ -22,7 +22,7 @@ const closeModal = () => {
     <section class="panels-container" id="paneles">
         <!-- Left Content -->
         <div class="left-content">
-            <h3>¿Para qué necesitas paneles solares en tu casa o empresa?</h3>
+            <h3>¿Necesitas paneles solares en tu casa?</h3>
             <h5>
                 El precio de la electricidad es volatil, en un momento puede
                 tirar al traste tus presupuestos y costos. Pero cuando instalas
@@ -33,12 +33,6 @@ const closeModal = () => {
 
             <!-- Buttons -->
             <div class="acction-btn">
-                <a
-                    href="tel:674395026"
-                    class="call-btn"
-                    @click="leadStore.registerClick"
-                    >Llamar ahora</a
-                >
                 <button @click="openModal" class="modal-btn">
                     Solicitar Presupuesto
                 </button>
@@ -57,7 +51,7 @@ const closeModal = () => {
         <!-- Right Content -->
         <div class="right-content">
             <img
-                src="/img/paneles-solares.webp"
+                src="https://img.freepik.com/free-photo/aerial-view-private-house-with-solar-panels-roof_181624-14677.jpg?t=st=1715883585~exp=1715887185~hmac=caad2e2338739a526418e00a3c15babd0a5366883d3c6886561e8a713298fc05&w=740"
                 alt="paneles-solares"
                 class="panel-img-big"
             />

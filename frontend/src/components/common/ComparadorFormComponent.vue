@@ -60,7 +60,7 @@ const handleSubmit = async () => {
 
 <template>
     <section id="comparar" class="form-container">
-        <h3>Adjunta tu factura de luz o gas y ahorra hasta un 40%</h3>
+        <h3>Adjunta tu factura de luz</h3>
         <LoadingComponent v-if="loading" color="primary" />
         <form v-else @submit.prevent="handleSubmit" id="services" class="form">
             <input
@@ -120,7 +120,7 @@ const handleSubmit = async () => {
 
         <!-- Background Image  -->
         <img
-            src="../../../public/img/background-2.webp"
+            src="https://img.freepik.com/free-photo/3d-rendering-hexagonal-texture-background_23-2150796429.jpg?t=st=1715883060~exp=1715886660~hmac=4b09ddac259804a2dc7de9a383944be042fbd5795498ac8f928db456dc3722ba&w=740"
             alt="Hero"
             class="hero-background"
         />

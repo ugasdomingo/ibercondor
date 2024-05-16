@@ -2,10 +2,9 @@
 
 <template>
     <section class="success-container">
-        <h4>Este caso de éxito podrías ser tu:</h4>
         <div class="success-info">
             <div class="column items-center">
-                <h6>Factura antes de comparar:</h6>
+                <h6>Antes de ser cliente:</h6>
                 <img
                     src="/img/factura-cara-grande.webp"
                     alt="costosa"
@@ -14,7 +13,7 @@
             </div>
             <div class="separador"></div>
             <div class="column items-center">
-                <h6>Factura el mes siguiente:</h6>
+                <h6>Después de contratarnos:</h6>
                 <img
                     src="/img/factura-buena-grande.webp"
                     alt="barata"
@@ -23,11 +22,6 @@
             </div>
         </div>
         <!-- Background Image  -->
-        <img
-            src="../../public/img/background.webp"
-            alt="Hero"
-            class="hero-background"
-        />
     </section>
 </template>
 

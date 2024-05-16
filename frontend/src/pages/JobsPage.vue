@@ -38,18 +38,6 @@
                 736, 2do Piso.<br />
                 Preguntar por Domingo Ugas
             </h6>
-
-            <a
-                href="https://wa.me/+51914764828"
-                class="text-black bg-green whatsapp-btn"
-            >
-                <img
-                    src="../assets/whatsapp.svg"
-                    class="whatsapp-icon"
-                    alt="whatsapp"
-                />
-                Escríbenos por Whatsapp
-            </a>
         </div>
 
         <!-- Hero Background Image  -->

@@ -43,7 +43,7 @@ defineProps<{
     text-decoration: none;
     font-weight: 400;
     font-size: 1.2rem;
-    color: $secondary;
+    color: $primary;
 }
 
 @media screen and (max-width: 760px) {
